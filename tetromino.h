@@ -6,7 +6,8 @@
 #define SHADOW_STRING "⛶"
 #define BLOCK_STRING "■"
 
-class Tetromino {
+class Tetromino
+{
   static const int MAX_SIZE = 4;
 
   // 디버그용 이름
